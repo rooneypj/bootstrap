@@ -1,0 +1,33 @@
+
+/*change brand font*/
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+}
+/* change navigatiuon color*/
+.navbar #mymenu .custom-nav .navitem a{
+    color: white;
+}
+.navbar #mymenu .custom-nav .navitem a:hover{
+    color: violet;
+}
+/* make background image responsive*/
+.back-image{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 70vh;
+    margin-top: 74px;
+}
+/* change link color*/
+a{
+    color: red;
+}
+a:hover{
+    color: silver;
+}
+.custom-link{
+    color: springgreen;
+    font-size: 20px;
+}
